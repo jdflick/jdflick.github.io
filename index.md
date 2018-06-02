@@ -13,5 +13,5 @@ Here are a few little projects I've played with over time:
 * [Doc Files to Excel - Python / Docx](https://github.com/jdflick/convertDocTablesToExcel)
 * [Convert Cells to Values - Excel Macro](https://github.com/jdflick/excelValueCleanse)
 
-### There's more stuff in my [Github](https://github.com/jdflick/excelValueCleanse), little snippets and resources and a few Linux toys
+### There's more stuff in my [Github](https://github.com/jdflick), little snippets and resources and a few Linux toys
 Hop in if you'd like.
