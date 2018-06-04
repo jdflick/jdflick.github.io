@@ -1,4 +1,7 @@
-## This is my github page
+## Welcome to my github page
+I will be moving all respositories to gitlab shortly.
+This data will remain but no more updates will occur here.
+I may remove the repositories at some point, this page will be updated if I do this.
 
 ### What have I been up to?
 
@@ -15,3 +18,5 @@ Here are a few little projects I've played with over time:
 
 ### There's more stuff in my [Github](https://github.com/jdflick), little snippets and resources and a few Linux toys
 Hop in if you'd like.
+
+
